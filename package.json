@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "dgram": "^1.0.1"
+  },
+  "name": "sample-udp-server",
+  "version": "1.0.0",
+  "description": "a sample udp server in js for testing",
+  "main": "test.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/MaxRubel/js-UDP"
+  },
+  "author": "max r",
+  "license": "ISC"
+}
